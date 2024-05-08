@@ -1,0 +1,36 @@
+
+#formpopup {
+    position: relative;
+    top: 5vh;
+    left:5vh;
+    width: 10vh;
+    color:black;
+    background-color:#cfd7ec;
+}
+
+#formpopup div {
+    margin-bottom: 15px; /* Adjust as needed */
+}
+
+#formpopup label {
+    display: block; /* Ensures each label is on its own line */
+    margin-bottom: 5px; /* Adjust as needed */
+}
+.buttonss{
+    background-color: #437d70;
+    border: none;
+    border-radius: 5px;
+    gap: 10px;
+    color: rgb(51, 49, 74);
+    
+}
+.buttonss1{
+    background-color: #437d70;
+    border: none;
+    border-radius: 5px;
+    gap: 10px;
+    color: rgb(51, 49, 74);
+    position: relative;
+    left:11vh;
+    top:-2.9vh;
+}
